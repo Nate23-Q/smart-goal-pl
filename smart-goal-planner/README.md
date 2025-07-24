@@ -62,7 +62,6 @@ The json-server provides the following endpoints:
 ## Usage
 
 1. **Add Goals**: Click "Add Goal" to create new savings targets
-2. **Make Deposits**: Click "Make Deposit" to add money to any goal
 3. **Track Progress**: View progress bars and completion percentages
 4. **Monitor Deadlines**: Get warnings for goals due within 30 days
 5. **Delete Goals**: Use the × button to remove goals

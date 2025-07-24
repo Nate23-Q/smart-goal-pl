@@ -1,7 +1,7 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react'; // or vue, svelte, etc.
 
-// https://vite.dev/config/
 export default defineConfig({
+  base: '/smart-goal-pl/',  
   plugins: [react()],
-})
+});
